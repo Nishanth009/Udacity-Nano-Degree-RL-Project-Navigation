@@ -20,7 +20,7 @@ The environment is solved using deep Q-network, a reinforcement learning algorit
 ### Deep learning model architecture:-<br>
 
 
-    input(state vector[37])
+    Input(state vector[37])
   
     Fully connected(64)
   
@@ -41,14 +41,14 @@ The environment is solved using deep Q-network, a reinforcement learning algorit
  --> learning_rate = 5e-4<br>
  
 ## Plot of score vs episodes(training)
-![alt text]("https://github.com/Nishanth009/Udacity-Nano-Degree-RL-Project-Navigation/blob/master/images/plot_rewards.png")
+![alt text](https://github.com/Nishanth009/Udacity-Nano-Degree-RL-Project-Navigation/blob/master/images/plot_rewards.png)
 
-Pretrained weights file **file name**
+Weights file **checkpoint.pth**
 
-#Ideas for Future Work
+## Ideas for Future Work
 
 1) Upgarde DQN with prioritized experience replay, Dueling DQN, Noisy DQN
-2) Learn from pixels
+2) Learn from pixels -- images/frames as input and action as output
 3) Try various hyperparameters and observe how it effects the agents performance
 
 
