@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 #Load the unity environment of the project
 #select file name according to your os
-env = UnityEnvironment(file_name="/linux/Banana.x86_64")
+env = UnityEnvironment(file_name="/VisualBanana_Linux/Banana.x86_64")
 
 
 # Environments contain brains which are responsible for deciding the actions of their associated agents. Here we check for the first brain available, and set it as the default brain we will be controlling from Python.Then we examine state and action spaces
