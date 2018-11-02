@@ -23,4 +23,4 @@ Install anaconda(python package manager)-python 3, then run ./install.sh file.Th
 
 ## Instructions
 
-Run **Navigation.py**. The agent uses Deep Q-Network algorithm to learn appropriate action for a state. The input to the deep neural network is the state vector and the output will be an action. DQN uses Experience Replay and Target network to get improved performace.The agents performance is measured based on its mean score over 100 episodes.In this case agent should get an average score of +13 over 100 consecutive episodes to solve the environment.Please check report.md for more details.
+Run **Navigation.py**. The agent uses Deep Q-Network algorithm to learn appropriate action for a state. The input to the deep neural network is the state vector and the output will be an action. DQN uses Experience Replay and Target network to get improved performace.The agents performance is measured based on its mean score over 100 episodes.In this case agent should get an average score of +13 over 100 consecutive episodes to solve the environment.Please check REPORT.md for more details.
