@@ -9,7 +9,7 @@ from torch import nn
 import torch.nn.functional as F
 import torch.optim as optim
 import matplotlib.pyplot as plt
-get_ipython().magic(u'matplotlib inline')
+
 
 
 
